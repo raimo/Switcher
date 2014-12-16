@@ -1,0 +1,3 @@
+title: "VR App Placeholder Name"
+regular_exe: "regular.exe"
+direct_to_rift_exe: "dirift.exe"
